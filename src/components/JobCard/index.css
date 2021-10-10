@@ -1,0 +1,29 @@
+.job-card {
+  color: #ffffff;
+  background-color: #272727;
+  border-radius: 15px;
+  padding: 15px;
+  margin-bottom: 20px;
+}
+.company-logo-name {
+  display: flex;
+  align-items: center;
+}
+.company-logo {
+  width: 60px;
+  margin: 15px;
+}
+.company-name-rating {
+  margin-left: 10px;
+  line-height: 1;
+}
+.company-name {
+  font-size: 20px;
+  font-family: 'Roboto';
+}
+.location-employment {
+  display: flex;
+}
+.company-rating {
+  display: flex;
+}

@@ -1,0 +1,86 @@
+.job-details-success-view {
+  background-color: #000000;
+  min-height: 100vh;
+  padding: 20px;
+  color: #ffffff;
+}
+.job-details-container {
+  padding: 20px;
+  border-radius: 10px;
+  background-color: #272727;
+  margin: 20px;
+}
+.margin {
+  margin: 20px;
+  padding: 20px;
+}
+.company-image {
+  width: 60px;
+}
+.icon {
+  color: white;
+  margin-right: 10px;
+  font-size: 30px;
+}
+.company-rating {
+  display: flex;
+  align-items: center;
+}
+.star-fill {
+  color: #fbbf24;
+  margin-right: 8px;
+}
+.location-employment-lpa {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.location-employment {
+  display: flex;
+  align-items: center;
+}
+.icon-name {
+  font-family: 'Roboto';
+  margin-right: 20px;
+}
+.content-heading {
+  font-family: 'Roboto';
+  font-weight: 600;
+  font-size: 20px;
+}
+.content {
+  color: #cbd5e1;
+}
+.skills-menu {
+  list-style-type: none;
+  display: flex;
+  flex-wrap: wrap;
+}
+.skill-menu-item {
+  display: flex;
+  width: 250px;
+  height: 80px;
+  align-items: center;
+}
+.course-logo {
+  width: 40px;
+  height: 40px;
+  margin: 15px;
+}
+.life-at-company {
+  display: flex;
+}
+.visit {
+  color: #6366f1;
+  margin-right: 10px;
+}
+.description-visit {
+  display: flex;
+  justify-content: space-between;
+}
+.similar-data-menu {
+  list-style-type: none;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}

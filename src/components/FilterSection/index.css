@@ -1,0 +1,15 @@
+.filter-section-view-menu {
+  list-style-type: none;
+  color: #ffffff;
+}
+
+.section-view-heading {
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-size: 16px;
+}
+.label {
+  margin-left: 12px;
+  font-family: 'Roboto';
+  font-size: 14px;
+}
